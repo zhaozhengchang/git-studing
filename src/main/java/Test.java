@@ -9,5 +9,7 @@ public class Test {
     //ccccc
     String  s1 = "111222333";
 
-    String  s1 = "111333";
+    String  s3 = "333333";
+    String  s4 = "444444";
+
 }
