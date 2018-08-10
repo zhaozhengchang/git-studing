@@ -7,5 +7,6 @@ public class Test {
     //1测试用
     //studying 提交1  111111 cscccscsc ccc  bbb  ggggg
     //ccccc
-    String  s1 = "111";
+    String  s1 = "111222";
+
 }
