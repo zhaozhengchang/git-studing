@@ -7,7 +7,7 @@ public class Test2 {
     	    public static void main(String[] args) {
 //2222223
 //修改bug
-				//又修复了一个bug111
+				//又修复了一个bug
 
     	        }
 
