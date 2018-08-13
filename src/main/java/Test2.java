@@ -13,6 +13,7 @@ public class Test2 {
 				//Œﬁtags
                 //Œﬁtags222
 				//tag1
+				//≤‚ ‘git merge --abort
     	        }
 
 }
